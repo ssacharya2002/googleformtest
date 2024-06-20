@@ -1,0 +1,42 @@
+F:\slidely\googleform\frontend\googleForm\obj\Debug\net8.0-windows\googleForm.CreateSubmissionForm.resources
+F:\slidely\googleform\frontend\googleForm\obj\Debug\net8.0-windows\googleForm.MainForm.resources
+F:\slidely\googleform\frontend\googleForm\obj\Debug\net8.0-windows\googleForm.ViewSubmissionsForm.resources
+F:\slidely\googleform\frontend\googleForm\obj\Debug\net8.0-windows\googleForm.vbproj.GenerateResource.cache
+F:\slidely\googleform\frontend\googleForm\obj\Debug\net8.0-windows\googleForm.GeneratedMSBuildEditorConfig.editorconfig
+F:\slidely\googleform\frontend\googleForm\obj\Debug\net8.0-windows\googleForm.AssemblyInfoInputs.cache
+F:\slidely\googleform\frontend\googleForm\obj\Debug\net8.0-windows\googleForm.AssemblyInfo.vb
+F:\slidely\googleform\frontend\googleForm\obj\Debug\net8.0-windows\googleForm.vbproj.CoreCompileInputs.cache
+F:\slidely\googleform\frontend\googleForm\bin\Debug\net8.0-windows\googleForm.exe
+F:\slidely\googleform\frontend\googleForm\bin\Debug\net8.0-windows\googleForm.deps.json
+F:\slidely\googleform\frontend\googleForm\bin\Debug\net8.0-windows\googleForm.runtimeconfig.json
+F:\slidely\googleform\frontend\googleForm\bin\Debug\net8.0-windows\googleForm.dll
+F:\slidely\googleform\frontend\googleForm\bin\Debug\net8.0-windows\googleForm.pdb
+F:\slidely\googleform\frontend\googleForm\obj\Debug\net8.0-windows\googleForm.dll
+F:\slidely\googleform\frontend\googleForm\obj\Debug\net8.0-windows\refint\googleForm.dll
+F:\slidely\googleform\frontend\googleForm\obj\Debug\net8.0-windows\googleForm.pdb
+F:\slidely\googleform\frontend\googleForm\obj\Debug\net8.0-windows\googleForm.genruntimeconfig.cache
+F:\slidely\googleform\frontend\googleForm\obj\Debug\net8.0-windows\ref\googleForm.dll
+F:\slidely\googleform\frontend\googleForm\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+F:\slidely\googleform\frontend\googleForm\obj\Debug\net8.0-windows\googleForm.vbproj.AssemblyReference.cache
+F:\slidely\googleform\frontend\googleForm\obj\Debug\net8.0-windows\googleForm.vbproj.Up2Date
+F:\slidely\googleform\frontend\googleFormFrontend copy\bin\Debug\net8.0-windows\googleForm.exe
+F:\slidely\googleform\frontend\googleFormFrontend copy\bin\Debug\net8.0-windows\googleForm.deps.json
+F:\slidely\googleform\frontend\googleFormFrontend copy\bin\Debug\net8.0-windows\googleForm.runtimeconfig.json
+F:\slidely\googleform\frontend\googleFormFrontend copy\bin\Debug\net8.0-windows\googleForm.dll
+F:\slidely\googleform\frontend\googleFormFrontend copy\bin\Debug\net8.0-windows\googleForm.pdb
+F:\slidely\googleform\frontend\googleFormFrontend copy\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+F:\slidely\googleform\frontend\googleFormFrontend copy\obj\Debug\net8.0-windows\googleForm.vbproj.AssemblyReference.cache
+F:\slidely\googleform\frontend\googleFormFrontend copy\obj\Debug\net8.0-windows\googleForm.CreateSubmissionForm.resources
+F:\slidely\googleform\frontend\googleFormFrontend copy\obj\Debug\net8.0-windows\googleForm.MainForm.resources
+F:\slidely\googleform\frontend\googleFormFrontend copy\obj\Debug\net8.0-windows\googleForm.ViewSubmissionsForm.resources
+F:\slidely\googleform\frontend\googleFormFrontend copy\obj\Debug\net8.0-windows\googleForm.vbproj.GenerateResource.cache
+F:\slidely\googleform\frontend\googleFormFrontend copy\obj\Debug\net8.0-windows\googleForm.GeneratedMSBuildEditorConfig.editorconfig
+F:\slidely\googleform\frontend\googleFormFrontend copy\obj\Debug\net8.0-windows\googleForm.AssemblyInfoInputs.cache
+F:\slidely\googleform\frontend\googleFormFrontend copy\obj\Debug\net8.0-windows\googleForm.AssemblyInfo.vb
+F:\slidely\googleform\frontend\googleFormFrontend copy\obj\Debug\net8.0-windows\googleForm.vbproj.CoreCompileInputs.cache
+F:\slidely\googleform\frontend\googleFormFrontend copy\obj\Debug\net8.0-windows\googleForm.vbproj.Up2Date
+F:\slidely\googleform\frontend\googleFormFrontend copy\obj\Debug\net8.0-windows\googleForm.dll
+F:\slidely\googleform\frontend\googleFormFrontend copy\obj\Debug\net8.0-windows\refint\googleForm.dll
+F:\slidely\googleform\frontend\googleFormFrontend copy\obj\Debug\net8.0-windows\googleForm.pdb
+F:\slidely\googleform\frontend\googleFormFrontend copy\obj\Debug\net8.0-windows\googleForm.genruntimeconfig.cache
+F:\slidely\googleform\frontend\googleFormFrontend copy\obj\Debug\net8.0-windows\ref\googleForm.dll
